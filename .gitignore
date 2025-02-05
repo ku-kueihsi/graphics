@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+# Vscode
+.vscode
+gralib.dSYM
+gralib
+
+# binary
+out
